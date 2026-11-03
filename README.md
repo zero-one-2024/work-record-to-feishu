@@ -1,5 +1,7 @@
 # Feishu Work Records
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 A Codex skill that turns the current task conversation into a structured work record and creates a Feishu cloud document in **My Document Library** (`my_library`).
 
 **Skill ID:** `work-record-to-feishu`
@@ -142,6 +144,7 @@ work-record-to-feishu/
 ├── agents/openai.yaml           # Display name and default invocation
 ├── references/record-format.md  # Document format and source-inclusion rules
 ├── README.md
+├── README.zh-CN.md
 └── .gitignore
 ```
 
