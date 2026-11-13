@@ -1,4 +1,4 @@
 interface:
   display_name: "Feishu Work Records"
-  short_description: "整理当前任务会话的工作成果与版本迭代，在飞书我的文档库新建工作记录"
-  default_prompt: "使用 $work-record-to-feishu 整理当前任务会话，在飞书我的文档库新建工作记录。"
+  short_description: "将任务会话整理为简洁表格，首次创建飞书记录，后续维护同一文档"
+  default_prompt: "使用 $work-record-to-feishu 整理当前任务，在飞书我的文档库创建或更新对应的工作记录。"
